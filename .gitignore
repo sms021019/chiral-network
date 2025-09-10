@@ -63,3 +63,6 @@ yarn.lock
 pnpm-lock.yaml
 # local geth data
 chiral-data/
+
+# local-only genesis
+/genesis.json
