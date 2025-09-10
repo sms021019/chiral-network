@@ -61,3 +61,5 @@ debug/
 # Package manager locks (keep package-lock.json for npm)
 yarn.lock
 pnpm-lock.yaml
+# local geth data
+chiral-data/
